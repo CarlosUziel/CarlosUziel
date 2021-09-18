@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there, I am Carlos! :sunglasses: :palm_tree:
 
-<!--
-**CarlosUziel/CarlosUziel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **prostate cancer research as part of my PhD**.
+- 🌱 I’m currently learning **Graph Machine Learning**.
+-  :globe_with_meridians: Learn more about me by visiting my [portfolio website](https://www.carlosuziel-pm.dev/)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+[![Mikerophone's github stats](https://github-readme-stats.vercel.app/api?username=CarlosUziel&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
