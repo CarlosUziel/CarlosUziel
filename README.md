@@ -1,7 +1,6 @@
 ### Hello there, I am Carlos! :sunglasses: :palm_tree:
 
 <br/>
-<br/>
 
 I’m a data scientist currently doing **research in prostate cancer** as part of my **PhD**. More concretely, I am working to understand the biological role of PSMA using next-generation sequencing data.
 
