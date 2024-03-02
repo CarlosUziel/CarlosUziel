@@ -17,6 +17,6 @@ My background and experience:
 - More than 5 years of experience in data analysis and machine learning in different domains.
 - Focus on Python data stack, from Pandas and Numpy to PyTorch and Streamlit.
 
-Apart from tabular data from different domains, I also have experience processing RNA-Seq and DNA Methylation data.
+Apart from tabular data from different domains, I also have experience processing next-generation sequencing data (e.g. RNA-Seq and DNA Methylation data)
 
 Check out [my public projects on GitHub](https://github.com/CarlosUziel) to get an idea of how I work.
