@@ -2,6 +2,8 @@
 
 <br/>
 
+I am an independent consultant in Data Science and Machine Learning.
+
 Do you need to extract insights from your data? I will evaluate your data analysis needs and find the best solution for your business or research goals. No over-complicated and expensive methods when simple statistics will get you what you want in a faster and more cost-effective way.
 
 When you decide to work with me, you can expect a thorough, reliable and responsive professional determined to drive your project forward. You will receive the personalized attention of an independent contractor. I will be your sole point of contact and be in charge of all the solutions tailored to your needs.
