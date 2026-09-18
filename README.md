@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I’m **Carlos**, an **AI Architect** and **Recommendation Systems Lead** building end-to-end AI systems, from custom neural architectures to production recommendation platforms.
+I’m **Carlos**, an **AI Architect** and **Recommendation Systems Lead** building end-to-end AI systems, from custom neural architectures to production recommendation platforms. What drives me is solving real problems through data-driven automation.
 
 🔗 [Website](https://perez-malla.com) · [LinkedIn](https://www.linkedin.com/in/carlosuziel/) · [Google Scholar](https://scholar.google.com/citations?user=tEz_OeIAAAAJ)
 
